@@ -38,6 +38,8 @@ Family Office Copilot is a secure, persistent AI agent designed for small invest
 - **Pain Points:** Manual deal screening, founder research, portfolio tracking amid broad activities.
 - **Value Prop:** Lancaster Scout (custom branding)—automates intake for startups, monitors holdings, drafts memos. Frees team for regional deal flow and support.
 
+Another: Harbour Investments
+
 ## POC Phase (Proof of Concept)
 
 **Goal:** Deliver immediate value in 2 weeks with minimal scope. Target: Startup intake workflow.
